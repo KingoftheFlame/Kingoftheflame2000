@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingoftheflame2000
-- 👀 I’m interested in programming of any kind. I currently know java the best, but I am familiar with others.
-- 🌱 I’m currently learning sql databases and other web design languages. 
+- 👀 I’m interested in programming of any kind. I currently know C++ the best, but I am familiar with others.
+- 🌱 I’m currently learning C++, Rust, and other languages. 
 - 💞️ I’m looking to collaborate with my friends in real life.
 - 📫 How to reach me? I am not displaying this information at this time.
 
